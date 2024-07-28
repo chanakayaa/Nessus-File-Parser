@@ -24,14 +24,12 @@ Ensure you have the Nessus XML file you want to parse.
  2. Run the Script
 Execute the script from the command line and provide the path to your Nessus XML file when prompted.
 
-bash
 python nessus_parser.py
 
 
  3. Enter the Nessus File Location
 When prompted, enter the full path to your Nessus XML file.
 
-plaintext
 Enter the location of the Nessus file: /path/to/your/nessus_file.nessus
 
 
@@ -42,9 +40,5 @@ After successful execution, the script generates an HTML file named `va_table.ht
  Customization
 Feel free to modify the script to fit your specific needs. You can adjust the HTML styles, add more details to the report, or integrate additional functionality as required.
 
- Credits
-This script was created by Pushkar Singh. Inspired by the philosophy: "Power isn't determined by your size, but by the size of your heart and dreams" - Future Pirate King "Monkey D. Luffy".
-
----
 
 For any questions or issues, please contact the creator. Happy parsing!
