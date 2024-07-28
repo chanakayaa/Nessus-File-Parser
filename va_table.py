@@ -131,7 +131,7 @@ if __name__ == "__main__":
     # "The One Piece Does Exist!" 
     print("\n********************************************")
     print("*                                          *")
-    print("*       AKS IT NESSUS  PARSER              *")
+    print("*       VULNERABILITY  PARSER              *")
     print("*                                          *")
     print("********************************************\n")
 
